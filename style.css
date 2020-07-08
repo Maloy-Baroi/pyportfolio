@@ -1,0 +1,33 @@
+body{
+    background-image: url('images/top-banner.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+#web{
+    color: rgb(179, 2, 2);
+}
+
+#python{
+    color: rgb(255, 53, 53);
+}
+
+#photograph{
+    color: rgb(255, 140, 140);
+}
+
